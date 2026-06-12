@@ -1,5 +1,7 @@
 # Deepfake Image Classification
 
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/b8a26333-6070-437e-8d42-82190093c1d0" />
+
 This project trains a ResNet50-based image classifier on the dataset in `dataset/FINAL_DATASET.csv`. The code is split into separate modules for dataset preparation, training, and inference so each stage can be run independently.
 
 ## Project Layout
