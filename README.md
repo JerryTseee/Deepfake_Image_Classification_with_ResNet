@@ -4,6 +4,8 @@
 
 This project trains a ResNet50-based image classifier on the dataset in `dataset/FINAL_DATASET.csv`. The code is split into separate modules for dataset preparation, training, and inference so each stage can be run independently.
 
+Please download the dataset from Kaggle: https://www.kaggle.com/datasets/chuneeb/deepfake-detection-dataset-2026
+
 ## Project Layout
 
 - `prepare_dataset.py` downloads and organizes images by split.
