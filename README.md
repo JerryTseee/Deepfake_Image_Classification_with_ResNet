@@ -16,6 +16,10 @@ Please download the dataset from Kaggle: https://www.kaggle.com/datasets/chuneeb
 
 ## Requirements
 
+```
+conda activate yourenv
+```
+
 Install the Python dependencies used by the project:
 
 ```bash
